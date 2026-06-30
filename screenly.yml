@@ -2,7 +2,7 @@
 syntax: manifest_v1
 id: 01KFMNBR33GFGWY5TW8VNZND5X
 description: A Grafana dashboard integration app
-icon: https://playground.srly.io/edge-apps/grafana/static/img/icon.svg
+icon: https://playground.srly.io/edge-apps/icons/grafana.svg
 author: Screenly, Inc.
 categories:
   - Dashboards
