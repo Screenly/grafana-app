@@ -1,4 +1,8 @@
+[![Version](https://img.shields.io/github/v/release/Screenly/grafana-app)](https://github.com/Screenly/grafana-app/releases/latest)
+
 # Screenly Grafana App
+
+![Grafana App Preview](/screenshots/1920x1080.webp)
 
 ## Getting Started
 
